@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="categories">
+        <item value="2">Argent</item>
+        <item value="3">Rings</item>
+        <item value="4">69 Collectibles</item>
+        <item value="5">Premier</item>
+    </string-array>
+</resources>
